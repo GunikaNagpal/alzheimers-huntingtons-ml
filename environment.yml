@@ -1,0 +1,9 @@
+name: ad-hd-classifier
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - GEOparse
