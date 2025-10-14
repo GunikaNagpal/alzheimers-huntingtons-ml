@@ -9,7 +9,7 @@ Project Overview:
 - Model evaluation using Confusion Matrix, ROC-AUC, Accuracy
   
 Dataset:
-- Source: GSE33000 - Gene Expression Omnibus (GEO)
+- Source: GSE33000 - Gene Expression Omnibus (GEO) - (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE33000)
 - Samples: 624 (AD: 310, HD: 157, Control: 157)
 - Features: 39,280 genes
   
