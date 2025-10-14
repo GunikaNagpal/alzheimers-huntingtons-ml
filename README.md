@@ -37,7 +37,6 @@ Train & evaluate models:
 python -m scripts.train_model
 
 Project Structure:
-- data/ : GEO data
 - outputs/ : results, plots
 - scripts/ : parsing, training, evaluation scripts
 - environment.yml : dependencies
