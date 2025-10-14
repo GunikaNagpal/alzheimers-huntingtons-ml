@@ -24,8 +24,9 @@ Results:
 - Confusion Matrix, PCA 2D Plot, Heatmap (Top 50 Genes), ROC Curve
   
 How to Run:
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/GunikaNagpal/alzheimers-huntingtons-ml.git
+
+Create environment:
 conda env create -f environment.yml
 conda activate ad-hd-classifier
 
