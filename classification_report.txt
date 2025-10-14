@@ -1,0 +1,12 @@
+Model: LogReg-OVR
+Accuracy: 0.9520
+
+              precision    recall  f1-score   support
+
+          AD       0.95      0.95      0.95        62
+     Control       0.91      0.94      0.92        32
+          HD       1.00      0.97      0.98        31
+
+    accuracy                           0.95       125
+   macro avg       0.95      0.95      0.95       125
+weighted avg       0.95      0.95      0.95       125
