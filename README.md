@@ -66,22 +66,23 @@ Outputs will be saved to the outputs/ folder.
 
 alzheimers-huntingtons-ml/
 
-│
+   │
 
-├── data/                 # (empty) place GEO dataset here
+   ├── data/                 # (empty) place GEO dataset here
 
-├── outputs/              # results (plots, reports, CSVs)
+   ├── outputs/              # results (plots, reports, CSVs)
 
-├── scripts/              # pipeline scripts
+   ├── scripts/              # pipeline scripts
 
-│   ├── parse_labels_and_expr.py
-│   └── train_model.py
+      ├── parse_labels_and_expr.py
+	 
+      └── train_model.py
 
-├── environment.yml       # dependencies
+   ├── environment.yml       # dependencies
 
-├── README.md             # documentation
+   ├── README.md             # documentation
 
-└── LICENSE               # MIT license
+   └── LICENSE               # MIT license
 
 
 📜 License
