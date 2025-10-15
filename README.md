@@ -2,7 +2,8 @@
 
 📌 Overview
 
-This repository implements a bioinformatics + machine learning pipeline to classify brain samples into Alzheimer’s Disease (AD), Huntington’s Disease (HD), and Controls using the GSE33000 microarray gene expression dataset.
+This repository implements a bioinformatics + machine learning pipeline to classify brain samples into Alzheimer’s Disease (AD), Huntington’s Disease (HD), and Controls using the GSE33000 gene expression dataset.
+
 The project demonstrates how to go from raw GEO data → preprocessing → feature selection → model training → evaluation with plots and metrics.
 
 
@@ -67,8 +68,6 @@ Outputs will be saved to the outputs/ folder.
 alzheimers-huntingtons-ml/
 
    │
-
-   ├── data/                 # (empty) place GEO dataset here
 
    ├── outputs/              # results (plots, reports, CSVs)
 
