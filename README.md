@@ -65,7 +65,9 @@ Outputs will be saved to the outputs/ folder.
 📂 Project Structure
 
 alzheimers-huntingtons-ml/
+
 │
+
 ├── data/                 # (empty) place GEO dataset here
 ├── outputs/              # results (plots, reports, CSVs)
 ├── scripts/              # pipeline scripts
