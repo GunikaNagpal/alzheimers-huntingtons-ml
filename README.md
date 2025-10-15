@@ -69,12 +69,18 @@ alzheimers-huntingtons-ml/
 │
 
 ├── data/                 # (empty) place GEO dataset here
+
 ├── outputs/              # results (plots, reports, CSVs)
+
 ├── scripts/              # pipeline scripts
+
 │   ├── parse_labels_and_expr.py
 │   └── train_model.py
+
 ├── environment.yml       # dependencies
+
 ├── README.md             # documentation
+
 └── LICENSE               # MIT license
 
 
